@@ -15,6 +15,6 @@ and a Contact page for getting in touch.
 
 # Live Demo
 
-[View Website]
+* View Website - https://gopal0610.github.io/portfolio-simple-website
 
 Then open `index.html` in your browser.
