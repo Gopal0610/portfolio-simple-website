@@ -1,4 +1,4 @@
-# 💼 My Portfolio Website
+# My Portfolio Website
 
 This is a basic personal portfolio website built using HTML and CSS. It consists of two pages: a Home page that highlights a brief introduction and skills,
 and a Contact page for getting in touch.
@@ -15,6 +15,6 @@ and a Contact page for getting in touch.
 
 # Live Demo
 
-* View Website - https://gopal0610.github.io/portfolio-simple-website
+* View Website - https://gopal0610.github.io/portfolio-simple-website/
 
 Then open `index.html` in your browser.
